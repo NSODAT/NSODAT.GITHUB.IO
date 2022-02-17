@@ -4,12 +4,9 @@
 
   * Данный блог содержит результат выполнения заданий электронной практики №1, он включает Темы 1-6 и, соответственно, документы, содержащие готовые решения заданий, включенных в тему.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Тема №1
+ #### Задание 1.1 ИСР "Философская проблематика информматики"
+ 
 ```markdown
 Syntax highlighted code block
 
