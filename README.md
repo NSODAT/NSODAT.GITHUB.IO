@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Добро пожаловать в мой Блог-портфолио, случайный посетитель!
 
-You can use the [editor on GitHub](https://github.com/NSODAT/NSODAT.GITHUB.IO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Давай я ознакомплю тебя с содержанием портфолио:
+⋅⋅* Данный блог содержит результат выполнения заданий электронной практики №1, он включает Темы 1-6 и, соответственно, документы, содержащие готовые решения заданий, включенных в тему.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
