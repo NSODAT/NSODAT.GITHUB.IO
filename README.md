@@ -4,33 +4,20 @@
 
   * Данный блог содержит результат выполнения заданий электронной практики №1, он включает Темы 1-6 и, соответственно, документы, содержащие готовые решения заданий, включенных в тему.
 
-### Тема №1
 #### Задание 1.1 ИСР "Философская проблематика информматики"
+#### Задание 1.2 ИСР
+#### Задание 1.3 ИСР
+#### Задание 1.4 ИСР
+#### Задание 1.5 ИСР
+#### Задание 1.6 ИСР
+#### Задание 1.7 ИСР
+#### Задание 1.8 ИСР
+#### Задание 1.9 ИСР
+#### Задание 1.10 ИСР
+#### Задание 1.11 ИСР
+#### Задание 2.1 ВСР
+#### Задание 2.2 ВСР
+#### Задание 2.3 ВСР
+#### Задание 2.4 ВСР
+
  
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NSODAT/NSODAT.GITHUB.IO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
